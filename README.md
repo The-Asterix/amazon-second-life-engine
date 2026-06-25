@@ -7,6 +7,8 @@ Retail returns present a multi-billion dollar challenge, impacting both operatin
 
 Instead of a standard text-based return form, this system utilizes Amazon Bedrock (Claude Vision) to analyze user-uploaded photos of returned items in real-time. It automatically grades the cosmetic condition, categorizes the optimal route (Restock, Refurbish, Donate, or Recycle), and dynamically calculates a "Green Credit" reward for the user.
 
+**Live Demo:** [Click here to view the Second Life Commerce Engine](https://amazon-second-life.vercel.app)
+
 ## 🛠️ Tech Stack & Architecture
 This project utilizes a modern, serverless-ready architecture designed for rapid deployment and enterprise scalability:
 
